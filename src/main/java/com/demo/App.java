@@ -2,7 +2,7 @@ package com.demo;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello from Jenkins CI/CD Pipeline - v2!");
+        System.out.println("Hello from Jenkins CI/CD Pipeline - Auto Build!");
     }
 }
 // Trigger Jenkins webhook
